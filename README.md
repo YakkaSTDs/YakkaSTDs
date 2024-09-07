@@ -1,8 +1,6 @@
 <!-- Banner Image -->
 <img src="https://w.wallhaven.cc/full/wq/wallhaven-wql73r.jpg" alt="Banner Image" width="100%" style="border-radius: 1rem;">
 
-<div align="center">
-
 <!-- Username Display Section -->
 <div style="background-color: rgba(255, 255, 255, 0.25); border-radius: 1rem; padding: 10px; text-align: start; margin: 10px 0;">
   <h2 style="margin: 0;">Yakka Studios</h2>
@@ -65,6 +63,4 @@
 <div style="background-color: rgba(255, 255, 255, 0.25); border-radius: 1rem; padding: 10px; text-align: start; margin: 10px 0;">
   <h3>Top Contributed Repo</h3>
   <img src="https://github-contributor-stats.vercel.app/api?username=YakkaSTDs&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
-</div>
-
 </div>
